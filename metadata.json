@@ -1,0 +1,6 @@
+{
+  "name": "VulkanoTrack Indonesia - Pemantauan Gunung Berapi PVMBG",
+  "description": "Sistem pemantauan real-time gunung berapi aktif di Indonesia dengan notifikasi dini bahaya vulkanik, auto-update berkala per menit, peta interaktif sebaran gunung, monitor seismik & sensor tremor akurat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
